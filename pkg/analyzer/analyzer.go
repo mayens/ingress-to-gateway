@@ -254,6 +254,8 @@ func (a *Analyzer) generateRecommendations(ing *networkingv1.Ingress, result *An
 		recommendations = append(recommendations, "Consider using 'per-pattern' split mode for better organization")
 	} else if result.HostCount > 1 {
 		recommendations = append(recommendations, "Use 'single' split mode (default) for optimal Gateway API resource usage")
+	} else if result.HostCount == 1 {
+		recommendations = append(recommendations, "Use 'single' split mode (default) - ideal for single-host ingress")
 	}
 
 	// Timeout recommendations

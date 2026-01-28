@@ -384,7 +384,7 @@ Inspired by:
 - 📖 [Documentation](docs/)
 - 💬 [GitHub Discussions](https://github.com/mayens/ingress-to-gateway/discussions)
 - 🐛 [Issue Tracker](https://github.com/mayens/ingress-to-gateway/issues)
-- 📧 Email: support@yourdomain.com
+- 📧 Email: me@smayengue.com
 
 ---
 
