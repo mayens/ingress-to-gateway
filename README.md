@@ -319,34 +319,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 - [ ] Documentation and examples
 - [ ] Bug fixes and optimizations
 
-## Roadmap
-
-### v0.1.0 (MVP) - Target: 4 weeks
-- [x] Project setup
-- [ ] Kubernetes client wrapper
-- [ ] Basic converter (single mode)
-- [ ] Audit command
-- [ ] Convert command
-- [ ] 80%+ test coverage
-
-### v0.2.0 (Advanced) - Target: 8 weeks
-- [ ] Split modes (per-host, per-pattern)
-- [ ] Batch command
-- [ ] Validate command
-- [ ] Progress tracking
-- [ ] Integration tests
-
-### v0.3.0 (Polish) - Target: 12 weeks
-- [ ] Interactive mode
-- [ ] Advanced validation
-- [ ] Performance optimizations
-- [ ] Complete documentation
-
-### v1.0.0 (Stable) - Target: 16 weeks
-- [ ] Production-ready
-- [ ] Full feature set
-- [ ] Comprehensive docs
-- [ ] Community feedback integrated
 
 ## Comparison with ingress2gateway
 
